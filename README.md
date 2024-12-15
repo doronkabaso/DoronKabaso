@@ -58,13 +58,13 @@ Passionate about continuous learning, I am currently delving deeper into advance
 
 <h3 align="left">My Resume:</h3>
 <p align="left">
-<a href="https://drive.google.com/file/d/11wGZlXUI08APlVBnBKUpJpEIAceHmc0i/view?usp=sharing" target="_blank"><img
+<a href="https://drive.google.com/file/d/11wGZlXUI08APlVBnBKUpJpEIAceHmc0i/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img
             align="center" src="https://www.svgrepo.com/show/262734/curriculum-vitae-resume.svg"
             alt="doron-kabaso-resume" height="40" width="40" /></a>
    </p>
    <h3 align="left">Connect with me:</h3>
    <p align="left">
-      <a href="https://www.linkedin.com/in/doron-kabaso-5a310964/" target="_blank"><img align="center"
+      <a href="https://www.linkedin.com/in/doron-kabaso-5a310964/" target="_blank" rel="noopener noreferrer"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="doron-kabaso" height="30" width="40" /></a>
    </p>
